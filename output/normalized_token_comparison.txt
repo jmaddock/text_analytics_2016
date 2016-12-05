@@ -1,0 +1,770 @@
+kapil vinai bhatt 
+my name kapil bhatt i did my undergrad comput scienc from india 
+i graduat 2012 after i work analyt consult 3 year mostli healthcar industri 
+my experi analyt consult expos me power analyt how action insight extract from data delug how help decis make 
+have gain concept descript analyt exploratori data analysi data visualis work my client know my strength around field i want substanti my skill some advanc analyt concept machin learn text mine optim techniqu predict analyt etc 
+why i join msia program 
+past summer i work genentech biotech compani my project predict whether earli breast cancer patient get excis surgeri 
+what got me interest text analyt class my inabl us emr data build featur predict model 
+i want us emr data which consist text from physician diagnosi patient creat featur out diagnosi 
+i want learn concept nlp so i can deal text data 
+my plan futur remain healthcar industri data scientist 
+edward binklei 
+i m steven binklei i m from santa fe new mexico 
+i born santa fe grew up chama new mexico which about 100 mile north 
+we live work cattl ranch where i rode hors spent much my time outdoor 
+from my time outsid i grew enjoi vista natur beauti lucki fly fish mani river west mississippi 
+
+i came msia program becaus i had discov data scienc combin my interest quantit analysi convei those result compani client on serv 
+i like program i don t want onli program 
+i like research write i need varieti 
+data scienc afford great deal varieti both context work conduct which i enjoi 
+
+befor msia i financi analyst variou capac 
+dullest job i ever had where i had dai input data system from mutual fund file 
+most excit job i had trade futur contract 
+howev i felt limit us classic financi tool model branch out my interest relat distinct studi 
+pivot my career ha been excit often anxieti induc 
+
+text analyt sub genr natur languag process allur right from begin 
+allow hold grail analysi quantifi previous unquantifi often relat human natur 
+tool threaten implement much ever grow unstructur data 
+
+futur i plan marri my fiance 
+she i have been engag over year 
+we live apart sinc she s attornei washington dc 
+i m happi have gotten data scienc job washington dc so i mai join her after graduat 
+further i m thrill purview my job where nlp text analyt invalu 
+
+steven binklei ha drop mic 
+daniel breitbach 
+i m origin from dubuqu iowa though i ve travel around north america last 8 year so live new york citi minneapoli vancouv san francisco oakland now chicago 
+i decid join msia after work consult bai area 
+number my client were explor applic advanc analyt market hr financ etc i spent time research how other compani were us machin learn 
+i realiz field data scienc advanc analyt rapidli evolv possibl applic grow commensur 
+my goal when i join nu develop requisit technic skill deploi machin learn model need solv busi problem enhanc my valu consult 
+
+onli real exposur i have text analyt through my practicum project last year 
+our team us lda segment risk relat new articl subcategori well all requisit pre process clean articl gener tf idf matrix 
+though us introduct i would sai my understand text analyt still earli stage 
+
+futur i m interest how compani can leverag intern gener text enhanc decis make improv oper 
+text becom wide avail type data from custom interact intern commun websit content 
+understand how turn data meaning featur accomplish busi object increas import appli data scientist 
+my goal class gener enough fluenci fundament natur languag process capabl us techniqu consult 
+
+after graduat i plan join mckinsei compani new york citi data scientist focus build data product help compani accomplish strateg goal 
+i want develop my career onli softwar develop more broadli analyt strategist understand how market analyt product evolv how organ can take advantag data driven product 
+valentino constantin 
+ask where you from normal pretti straight forward singl phrase answer 
+new york 
+california 
+europ 
+japan 
+singl phrase can most part encapsul person s background cultur place birth place upbring spoken languag even tradit 
+my answer usual longer on 
+son two immigr parent form cypru switzerland i myself born cypru well grew up east tennesse now live great citi chicago 
+
+
+
+my interest appli program mathemat creativ solv uniqu problem while also keep mind usabl through visual what drew me data scienc field gener more specif msia program northwestern 
+i saw field space where i could appli my think analyt creativ solv interest problem hopefulli impact other everi dai 
+becaus i still keep visual mind preach on most import disciplin field 
+human be have auditori tactil sens core we visual learner 
+
+
+
+i m interest text analyt cours on major reason 
+despit obviou desir learn how extract us inform from data gener human be human be larg scale i believ uniqu opportun exist combin text data visual machin learn approach could worthwhil explor 
+do mistaken idea word cloud which silli terribl 
+i mere think inform glean from text analysi could appli interestingli visual especi instal art set 
+could also taken further appli predict model text data visual those result some wai prefer interact 
+
+
+
+follow graduat decemb 10th year i take two month vacat visit famili europ prior start work nasa s jet propuls laboratori pasadena california 
+i m huge fan lo angel am super stoke start posit work advanc mankind s abil explor our univers 
+jpl respons most space probe rover mission have explor our solar system which have advanc our understand known univers 
+i ve been trek buff sinc i about 8 year old watch star trek next gener so like dream me 
+kelsei demott 
+i m kelsei i born rais florida attend univers florida where i studi mathemat 
+after graduat i so readi get out hot humid bug fill retir state florida where noth happen futur me 
+i move washington d.c 
+took posit livingsoci busi intellig analyst where i work compani s data set answer busi question from around organ 
+after two year i move denver co work technic account manag adtech compani 
+after some time posit i realiz i realli want focu analyt i didn t want limit just descript work i do my previou posit livingsoci so sought out graduat program where i could learn all cut edg tool techniqu data scienc happi land msia program 
+
+between data set i ve work program project i expos my summer internship civi analyt i ve recogn need text analyt 
+i m also start interview compani who look autom lot process us text analyt 
+text analyt realli seem separ beast from analyt tool we ve learn so far 
+reason also seem lot peopl analyt world don t know much about so i feel take cours could prepar me well give me competit advantag busi world 
+
+i m hope us degre do someth i feel passion about someth creat more good world 
+i m yet sure what i know i can t spend more year my life serv ad peopl who don t want receiv them 
+i love chicago area still so mani place explor i d love find job new york citi am open other citi countri well 
+yunyan duan 
+my name yunyan duan 
+i am second year phd student depart linguist northwestern univers 
+i come from quje citi yunnan provinc china 
+after i finish my high school quje 1 middl school i studi undergradu peke univers pku beij china 
+i major statist psycholog 
+2013 i graduat from peke univers work research assist center brain cognit scienc pku next two year 
+my other work experi includ research assistantship work machin learn project nation laboratori pattern recognit institut autom chines academi scienc internship baidu also known chines googl data analyst work batteri save project 
+
+my research interest li sentenc process specif how human integr inform from variou sourc sentenc comprehens 
+i us both psycholog experiment comput model approach 
+i becam interest text analysi when i colleg take class comput vision comput linguist 
+text analysi interest topic us societi mani reason 
+
+futur i first finish my phd studi five year 
+i mai either find postdoc posit academi find job industri 
+s possibl me come back china stai out china either wai would work me 
+
+my spare time i enjoi read novel poem listen soft music plai ping pong 
+i also love explor town i live visit museum statu build long histori 
+i speak mandarin chines english 
+i am good cook tradit chines cuisin 
+i enjoi mediterranean dish lot my favorit restaur chicago purpl pig 
+alyssa everd 
+my name alyssa everd while i born houston texa i grew up libertyvil illinoi 
+i went wheaton colleg studi math econom graduat mai 2015 
+i becam interest msia becaus i knew i want further my skill number befor enter workforc want go good school chicagoland area 
+i appli univers chicago s statist program northwestern s analyt program among other ultim decid msia becaus strong focu practic skill help employ internship opportun 
+i have known mani year i love work data see what answer i can find from my undergrad didn t offer me opportun fulli develop those skill so master s degre seem like natur next step 
+throughout my time colleg i had opportun work few differ statist project confirm desir 
+i enter msia directli from undergrad 
+i spent summer between undergrad msia babysit my ador nephew 
+i becam interest text analyt i discov field i could learn more about 
+i find natur challeng present fun puzzl try solv also abil successfulli us text analyt increasingli import skill so much data out 
+i am excit abl learn more about what possibl do text i am ignor about lot method 
+i am graduat decemb move oklahoma citi upon graduat after get marri 
+i am current still look right job me am excit about opportun begin work career i am passion about do well 
+mingyan fan 
+i'm origin from nanj china 
+s locat center east coast about four hour drive from shanghai 
+i came state when i high school ha been here ever sinc 
+i major econ appli math dure my undergrad 
+my internship dure junior year undergrad relat retent analysi although i didn't know term retent analysi back model 
+i got realli interest whole data analysi field becaus experi 
+howev dure internship i also realiz i could do much more i had more statist technic busi knowledg why i decid continu pursu educ subject matter 
+addit time my graduat big data seem like most popular field studi fit my academ background well 
+i happen know program pure chanc through alumnu last minut add my applic list 
+i don t have ani full time work experi came here straight from undergrad 
+i first becam interest text analyt dure first quarter where we did project retail store 
+on data column we had custom comment 
+we did some kind basic sentiment analysi i think especi analyz sale data custom opinion could have greatli improv our analysi we had been abl analyz text better 
+i intern bai area last summer i realli like i also got chanc visit seattl which fun place well so after graduat i would like try get job either place move 
+i went back china about two week just befor school start i think s fast grow market data scienc china well so i would like explor opportun back china well 
+theodor feder 
+graduat haverford colleg b. 
+mathemat minor econom theo pursu career pair hi aptitud quantit analysi hi deep passion manag decis scienc 
+theo spent three year after colleg work senior research analyst lead research advisori firm arlington va 
+
+role which focus identifi develop implement best practic corpor strategi research develop depart client corpor theo help resolv complex manag challeng divers set organ 
+exampl he work on largest u. 
+non profit design instal enterpris wide perform dashboard 
+he also help deploi intric corpor portfolio manag process top enterpris softwar firm 
+addit client specif work theo ha conduct extens research hot button execut challeng 
+through research he develop causal model manag activ creat numer execut survei perform variou statist analys result data 
+work along case profil he ha written ha been publish research studi on which recent featur huffington post cfo magazin 
+
+past summer theo work statist analysi intern new york yanke where he develop model evalu defens posit rang 
+theo ha also work 9 month data scienc project allstat which he small team creat algorithm provid custom driver safeti tip custom allstat s mobil applic 
+he also work class project classifi vehicl imag depict safe unsaf drive behavior 
+
+pursu m. 
+analyt northwestern univers theo incred excit complement hi experi consult advanc statist comput skill necessari tackl data intens issu todai s compani regularli face 
+ashlei felber 
+i born miami florida move denver colorado when i ten 
+i graduat from univers michigan 2011 major econom minor mathemat 
+after graduat i work consult deloitt implement workdai softwar servic solut human resourc manag 
+after two year deloitt 
+i quit my job move philippin 
+i spent five month volunt non profit provid hous poor serv incub agricultur focus social enterpris 
+after philippin i travel twelv countri south east asia south america central america 
+time i receiv my yoga teacher certif hike machu picchu went scuba dive blue hole beliz 
+upon return from abroad i negoti on year workdai consult contract allergan pharmaceut previou client mine from deloitt 
+same time i work oper depart evolv start up vacat rental industri 
+point i knew demand data scientist grow due advanc technolog mass amount avail data 
+i want pursu career which i could us data solv busi human challeng knew i need go back school gain technic skill success field 
+thu i appli join msia program northwestern 
+past summer i intern amazon develop model predict revenu potenti new seller amazon s third parti marketplac 
+were mass amount unstructur data avail onlin marketplac howev i did have skill effect incorpor data 
+therefor i enrol text analyt improv my skill python abil successfulli clean analyz text 
+i am plan move back denver after graduat am process search job 
+i do have specif industri mind i would like work compani small grow analyt depart 
+jessica feuston 
+i spent most my childhood small town outsid philadelphia call worcest 
+even though s spelt like massachusett citi s actual pronounc how word look i. like citi massachusett sauc san shire 
+when i live worcest didn t even have s own mail address we had address base nearbi larger town lansdal 
+most recent befor chicago i live atlanta 
+i complet my undergradu degre comput media ms degre human comput interact georgia institut technolog 
+between those two degre i work few year consult 
+i m current student technolog social behavior program 
+my research mostli within inclus technolog lab advis ann mari piper 
+my focu predominantli design commun rather than them 
+commun i m current work individu traumat brain injuri 
+i m also extrem interest work mental health specif depress commun 
+
+i becam interest text analyt last winter 
+most my research qualit i m finish up some public forum scrape i m entir certain what do data 
+i have few loos idea base literatur try determin inform seek versu support seek post i don t know how code data us comput ani technolog strategi 
+all my previou text code experi hand which coloss time sink 
+i feel like class increas my understand area which help me move forward research 
+my plan us next few month figur out analys have paper submiss cscw mai 
+other plan futur includ summer internship learn how embroid improv ceram 
+chester grai 
+my name chet grai i am origin from fairfax virginia 
+befor come northwestern i attend univers virginia receiv degre comput scienc system engin 
+i also spent littl over year work undergradu research help project relat cyber physic system unman aerial vehicl 
+decis pursu analyt degre had it root cours my third year undergrad 
+on cours we were given excerpt real data set accompani case studi from real compani 
+hindsight mani case studi could have been solv fairli trivial appli simpl logist regress time our work knowledg probabl statist consist two intro cours 
+be forc creativ appli simpl techniqu simul hypothesi test on most fun experi i had class until point 
+dure my last year undergrad i manag get introductori machin learn cours taught new faculti member 
+point i realiz sheer breadth applic field analyt data scienc which motiv me appli msia program 
+
+my first exposur text analyt capston project dure my final year undergrad 
+i work team 4 other student analyz fashion product descript scrape from web 
+we appli latent dirichlet alloc extract topic we us character style differ brand 
+i expand work dure internship same compani dure msia summer internship 
+text analyt natur languag process gener my top interest field data scienc 
+i find construct model pars both written spoken word incred fascin 
+go forward i hope pursu project my career allow me explor topic much possibl 
+jame green 
+my name jami green i'm student msia program graduat 2016 
+befor program i work corpor strategi wolter kluwer inform servic publish compani 
+prior i studi appli mathemat brown univers 
+
+i'm origin from new york citi 
+i live lower manhattan until i 12 year old which when i move riverdal bronx 
+i live throughout high school 
+i went school rhode island took year off halfwai through where i live india two month china three month 
+after graduat i move back my parent on year live harlem two more year befor move evanston school 
+
+i join program becaus i want learn how us data effect properli which someth i'd had opportun do befor 
+i believ true understand statist necessari deriv insight from data 
+
+my interest text analyt driven my interest analyt gener 
+larg amount data analyt reli text base data sourc which make import part be well round data scientist 
+lot compani do interest thing text analyt sinc i'm current look full time posit would realli help me my job search well be success my career gener 
+
+my plan futur somewhat uncertain 
+i'm hope end up nyc after graduat i mai find better opportun elsewher 
+i have on offer from ibm i'm still consid other posit 
+i'm current look job within healthcar technolog game whatev els appeal me 
+eli harik 
+text analyt 
+assign 0 
+eli harik 
+
+
+hi my name eli harik 
+i am from lebanon grew up abu dhabi capit unit arab emir 
+becaus i onli got spend christma summer holidai lebanon i decid fulli experi life beirut 
+
+i graduat from american univers beirut 2014 b.e 
+comput commun engin 
+2013 dure summer internship data visual agenc new york citi i start have keen interest data 
+while i develop javascript boilerpl web applic infograph futur project neighbor design expos me function applic data 
+my interest data driven analysi visual grew more appar when t 
+mccall infographics.com founder show us hi portfolio abil distil singl page thousand data point variou topic nation monthli presidenti approv rate fascin me 
+
+prior start my master s degre i work varieti softwar develop role 
+learn object c help me secur part time job region softwar develop firm where i expos softwar project part io develop team 
+later independ softwar develop i creat chlow io applic promot healthi eat habit prototyp sever mobil game applic 
+
+import text analyt becam appar whenev i scrap data off web deriv us inform from web data more often than involv us text analyt method 
+
+after graduat i intend becom analyst technolog firm where i can find commun like mind individu work 
+eventu i plan establish firm offer data driven servic compani middl east translat abund unus data predict insight lead busi valu 
+mengshan jin 
+mengshan current master scienc analyt candid northwestern univers 
+origin from nanj china mengshan came msia program immedi after she graduat from nanj univers 
+her undergrad major inform comput mathemat which help her build solid foundat mathemat statist theori 
+howev mengshan ha alwai been eager gain more practic experi had passion appli technic skill she ha learn from class real world problem therefor she decid pursu master s degre analyt help develop her career path after undergradu studi 
+
+befor join msia mengshan had on year internship experi start up compani call roboocap network china 
+manufactur cloud platform roboocap provid easi access 3d printer laser cut servic cnc machin extrem low cost 
+dure her internship mengshan test engin intern focus web test 
+she built test process two web applic from ground implement some autom web test process python 
+
+mengshan ha been interest text analyt sinc she particip trunk club analyt project first quarter northwestern 
+project she had some opportun process text like custom review did some basic analysi includ word count calcul levenshtein distanc 
+mengshan found experi pleasant also challeng so she would love learn more techniqu text analyt 
+
+summer mengshan work data scientist intern strateg intellig analyt team chicago mercantil exchang 
+even though she had prior experi knowledg financ mengshan had great internship experi cme work few data scienc project 
+her favorit on gave her opportun build machin learn power product recommend engin visual dashboard written python user interfac markov model provid predict recommend behind scene 
+she gain lot knowledg how market team work cme well some fundament knowledg about how trade futur option product through process 
+
+next step mengshan find full time job ideal she want data scientist 
+mengshan definit interest explor more financ industri yet she doesn t want limit herself onli on possibl 
+she still open some other industri long she can make signific contribut keep learn grow 
+li kan 
+origin from china i did my undergrad shandong univers major mathemat statist 
+i am interest analyt becaus i would like know how appli what i learnt school solv real world problem 
+i heard about program from northwestern alumni he highli recommend program me 
+i practicum project involv lot about natur languag process which arous my interest text analyt topic 
+skill highli motiv data scientist her goal help compani infus advanc analyt data scienc oper decis make process 
+priyanka kancharla 
+i am priyanka kancharla from port citi visakhapatnam locat south india 
+i graduat 2014 bachelor degre electron commun engin 
+i also secur silver medal stand second my depart 330 undergradu student 
+inspir david mccandless ted video beauti data visual how data can alter percept deriv fact ration i decid pursu career field analyt 
+post graduat i join sweden base telecom analyt start up xoanon analyt chennai offic where i work understand variou step involv data analysi from extract raw data creat visual dashboard 
+
+broad object my first project xoanon provid user market segment nigeria multin telecommun network provid 
+area analyz were reason usag multipl sim singl user percentag user qualiti servic be provid comparison price paid etc 
+my respons includ work oracl sql databas retriev raw data from call data record 
+etl data integr i us talend wherea visual pattern recognit i made us tableau 
+combin custom registr data call data record result from market survei were us arriv final segment model 
+after my train i supervis recruit fresh talent compani start my employ internet thing domain 
+
+work startup enabl me gain broad understand analyt 
+i decid pursu my master analyt northwestern univers attain deeper knowledg master skill requir perform data analysi 
+i got interest text analyt when i came across lot project teradata aster hackathon i couldn t attempt them i did know enough class opportun me learn more 
+i aim leverag my skill us power analyt data driven decis make onli empow busi improv effici provid strateg direct reduc cost also enhanc valu product consum macro level impact mind peopl all around world 
+yungjen kung 
+i am from walnut california 
+dure undergrad i realiz i realli enjoi investig work research 
+i first introduc data analysi my econometr cours 
+we were work nlsy97 dataset from bureau labor statist 
+we found marri men children typic had higher salari than those who did have children were marri 
+i thought realli cool particularli bia hire fact data analysi can reveal highlight import inform about peopl societi 
+so i sign up more math cours dure my final year undergrad unfortun too late major math 
+graduat loom i had grow pressur becom function asset our economi 
+i had done coupl project internship point clear direct 
+i decid career data analyt could good fit me i need learn more develop my skillset further on would hire me 
+why i appli graduat program analyt data scienc 
+i decid come northwestern instead other program becaus curriculum broad divers heavi focu applic 
+hand experi must me becaus i came from liber art background 
+furthermor program seem most establish sinc all program rel new 
+
+i becam interest text analyt dure project dure undergrad 
+my team i were move black live matter movement want figur out what peopl were sai what thought about whether opinion were form geograph demograph pocket 
+why indiffer resist caus we decid tap twitter api quickli get sens what peopl were sai 
+none us had ani experi text beyond grep like text search so we took easi wai out just look trend topic everi dai larg citi across us 
+i had known more about text analyt sentiment analysi our project could have been much more interest 
+i don t have specif plan futur i do know i want continu learn about analyt us provid valu organ human 
+yilei li 
+i m rene li 
+origin from china bachelor statist i realiz potenti bring advanc analyt model tool real world motiv me start my journei data scienc 
+
+befor program i did my internship fintech start up design credit rate model user consum social network data 
+internship educ me first tast success appli knowledg data scienc real world mobil app develop design process further foster my passion extend experi make greater impact 
+internship stimul my passion machin learn gener 
+deep learn cours i took msia spring enhanc my interest more hand practic nlp 
+
+continu extend my knowledg analyt from msia curriculum i see me engin design ey 
+9 month motorola practicum train me analyt think teamwork enthusiasm well r sql program profici 
+deep learn cours open door comput vision imag recognit 
+what s more data visual cours brought out my creativ potenti data visual web design 
+uncov varieti project i have done visit my person portfolio webpag http renegallery.github.io link extern site 
+
+i m look forward go further analyt data visual hope work compani share my enthusiasm data scienc appreci valu deep learn model 
+jan lubatschowski 
+my name jan from germani 
+have been born east germani my famili move west germani earli 90 s 
+also where i went elementari school high school 
+while pursu my bachelor degre busi informat import me gain knowledg insight both busi special on other i believ indispens somebodi who want becom leader industri 
+dure my studi i first focus analyz manag busi process especi market sale 
+i appli knowledg from veri begin my studi member later sale leader student run non profit organ which enabl intern exchang student around globe 
+coupl year ago i start get interest analyt have studi someth similar area my undergradu degre 
+i did extens research school offer program like data scienc analyt shortlist coupl univers offer program 
+northwestern end up be my first choic becaus ha great program isn t young most other 
+befor program i work startup creat govern risk complianc solut financi servic industri 
+articl about data scientist be sexiest job 21st centuri report big data mckinsei global institut were among first made me interest area predict analyt 
+text analyt i am veri interest music lot lyric which mostli mean rap hip hop music 
+i ll happi learn how us text analyt analyz song lyric 
+futur after graduat i plan work data scienc consult move new citi 
+eric lundquist 
+i m origin from boston although befor move illinoi msia i had been live philadelphia roughli 10 year includ colleg 
+befor i work statist programm public polici research compani my interest us analyt predict futur addit explain past brought me graduat school here northwestern 
+i also want learn lot newer tool technolog had becom popular analyt last 10 year so well explor unstructur data addit tradit comma separ valu rdbm tabl 
+
+like you point out first lectur unstructur data ha becom far larger more import than tradit row column rectangular data set so i m hope gain skill abl us free form text deriv interest action valu 
+i m particularli interest applic text analysi predict model custom segment mostli via creation import featur out raw unstructur text content 
+
+i m current look full time work i d love involv product develop data driven softwar design technolog media compani near futur 
+i think text form custom review chat log new stori ha huge potenti help make product better most all s larg untap resourc lot organ 
+
+outsid school work i m avid cyclist i love listen plai folk root music i watch mani theatr movi i can 
+addit appli text analyt skill my next profess i d love abl work some side project especi relat us social media data rate group music movi 
+look forward good quarter 
+stephen maddock 
+my name jim though everi govern document school record claim i go stephen jame maddock iii 
+i grew up small town southern main call south berwick next berwick north berwick which ha traffic light onli few stop sign 
+until i move awai 18 i walk 7 minut from same school everi dai 
+i graduat part largest class school histori which amount 63 student 12 whom i'd known sinc kindergarten 
+
+my decis move seattl colleg larg due insular first 18 year my life 
+petti vandal can onli consid pastim so mani year besid i like music scene gener atmospher apathi 
+summer after my third year meander from depart depart univers washington i found myself hci professor offic ask research job much surpris my parent lead small amount publish confer job throughout my final year undergrad 
+
+transit afterward phd program northwestern seem like next natur step after i graduat from uw 
+i want continu research someth although i still somewhat vagu detail 
+i like work i'd done hci so after brief internship microsoft bangalor india i start northwestern technolog social behavior program septemb 2015 
+
+most research i'v help push along ha us some form natur languag process though up until point i'd never taken formal class 
+most my comput scienc knowledg my understand nlp entir self taught i thought some formal instruct could help fill conceptu gap now i don't even know exist 
+macon mclean 
+hello all i m macon mclean 
+i born rais greenvil south carolina 
+i live parkin mill area west side town near motormil 
+
+i went brown univers graduat 2014 
+i left colleg without ani hard skill had made ani real plan concern my futur 
+so i decid absenc other option forc live home where i work my old high school tutor kid math physic 
+eventu i learn about data scienc decid i want go do 
+
+
+i becam interest text analyt sometim last year work more dure my internship summer 
+i work project nasa s jet propuls laboratori jpl design analyz submiss nasa s decad survei 
+idea develop system can read submit project rfi scientif public extract co occurr earth scienc survei method either frequenc band orbit type 
+would render browser heat map represent pair earth scienc execut could get gener feel what research industri work focus without have manual comb through all text 
+
+my plan futur pretti wide open 
+i have accept job offer from jpl so i return februari 
+unfortun i cannot see myself so far from home famili long term so i don t know how long i ll last out job fantast 
+i have other set stone plan other than move back south carolina eventu 
+
+i am big fan movi sport comedi 
+heartbreakingli i am fan south carolina gamecock who lack d1 talent sever posit group current deal field consequ those recruit failur 
+i m pretti excit about star war rogu on though prospect relax two month home befor have report my job 
+i m veri excit about rest text analyt class 
+melissa mcneill 
+born rais suburb dalla fort worth melissa graduat from texa m univers mai 2015 bachelor scienc comput scienc minor busi administr 
+interest how comput can us quickli access process inform she made us her elect focu inform intellig system track her degre plan 
+
+dure her time texa m melissa spent two summer intern microsoft redmond wa 
+throughout those summer her project includ develop simpl recommend system manag project team build embed devic applic research futur internet thing disast respons field 
+her coursework relev internship experi togeth her grow awar how data analyt were be appli successfulli solv big social problem led her enrol master scienc analyt msia program northwestern univers 
+
+melissa s interest text analyt specif began her final year undergradu school through class project involv analyz yelp review 
+project entir inform storag retriev class degre plan s version intro machin learn open her ey unbeliev potenti come from analyz unstructur data 
+from new text sourc social media exist sourc like new articl histor speech clear futur analyt requir least basic understand text analysi topic name entiti recognit sentiment analysi topic model 
+
+
+melissa particularli interest how data analysi can us help peopl excit appli her knowledg analyt problem relat nonprofit healthcar law enforc govern futur 
+her immedi post graduat plan move new york citi continu work data scientist crime lab new york research organ where she spent her summer internship 
+
+balamurali natarajan 
+i am from bangalor india 
+i have doubl master degre physic electr engin 
+prior join msia i have work close twelv year do telecom network design signal process 
+i also won few award work like custom satisfact award best technic paper award 
+dure my work career i have travel variou countri unit state china netherland either work present my paper intern confer 
+
+i enrol msia program becaus excel inter disciplinari educ provid which allow me acquir all requir data scienc skill technolog soft skill machin learn 
+i like switch my career from engin data scienc i thought enrol graduat program allow me fulli immers myself focus manner learn data analyt 
+i got interest textanalyt dure my first quarter project 
+i had develop automat question answer modul 
+also dure my internship t mobil i introduc text analyt when i ask mine tweet determin custom sentiment 
+though i did spend much time project i understood us field got interest learn more 
+text analyt increasingli becom veri import toolset data scientist 
+i like becom deep data scienc expert telecom industri creat new product creat valu compani i work 
+i am fulli convinc time ripe now widespread deploy real time dataanalyt solut across all organ 
+i want forefront ride next big technolog wave domain becom expert leverag big data real time analyt respons 
+terrenc neumann 
+terri neumann 
+
+
+
+when peopl ask where i am from i often have difficulti answer 
+i born manhattan kansa have live sever place across america europ 
+i grew up san antonio tx move kalamazoo mi ag 11 
+when i 13 my dad transfer manchest england through hi job kellogg s 
+i move back kalamazoo where i finish out two year high school move bloomington colleg 
+
+
+
+my path msia reason typic 
+i econom mathemat undergradu major indiana univers program i work quit bit data 
+howev i had more interest move beyond linear model typic econom realli learn about forefront machin learn 
+i also had passion data visual which program emphas well 
+anoth thing i like about msia seem so pragmat 
+most data scientist pre 2010 were either phd peopl year year profession experi exposur necessari tool method fact we could get cut edg educ field seem like excit opportun me 
+
+
+
+i am interest text analyt becaus seem relev modern toolkit ani profession analyt role 
+so much text data wait scrape mine i want learn text analyt give me framework make sens unstructur data 
+how can we quantifi user review websit wai identifi credibl user review how doe on implement intuit text search all thing i would like learn class 
+
+
+
+summer i intern advanc analyt group ernst young nyc 
+i receiv offer work them full time januari i like take 
+howev i am current work get transfer digit analyt practic san francisco seem agre my interest skill set bit more 
+lingxiao ou 
+my name lynn ou 
+i am origin from fujian china 
+i graduat from uc berkelei 2012 major econom statist 
+after graduat i work two half year analysi group econom consult compani base san francisco where i perform statist financi analys compani need assist litig complianc govern regul 
+analysi group i work larg dataset grew interest work data 
+i came master scienc analyt msia program northwestern univers becaus i want do systemat studi data build stronger foundat statist 
+
+i am interest text analyt becaus veri us skill 
+i have encount mani text data my past project i had littl idea how analyz them effici wai 
+after msia i hope find job relat custom analyt becaus i enjoi analyz custom behavior deriv busi insight from 
+text analyt would add new dimens custom analyt exampl allow me analyz review data 
+i am look forward learn about commonli us algorithm program packag relat text analyt from class so i can start appli them project 
+
+my spare time i enjoi go out see natur 
+dure summer i visit olymp nation park seattl 
+park absolut beauti i got see mani aspect natur on place river lake sea waterfal snow cap mountain temper rainforest 
+i also like cook 
+i mainli cook asian food 
+recent i also learn make some western style dish from blue apron deliveri servic send it user recip ingredi 
+kate overstreet 
+kate overstreet hw 0 
+
+i'm from suwane georgia suburb atlanta georgia 
+i came msia program becaus i think creat insight out data interest challeng 
+i also like broad rang applic data scienc analyt 
+everi industri ha problem can solv data analyt 
+appeal me becaus i am sure what industri i would want work i like option abl mix up work i do along cours my career 
+befor program i graduat from georgia institut technolog degre industri system engin 
+while i undergrad i first expos analyt through manufactur internship my minor comput data analysi 
+text analyt interest me i think 
+text data ha most potenti captur complex thought feel underli human behaviour 
+dure my internship summer i task 
+get us inform from custom email specif predict custom behaviour 
+i found email rich sourc inform my knowledg ultim sophist enough do much i want do much i knew what possibl 
+i am excit class becaus i think so much valu text data text analyt 
+futur my main prioriti work challeng project where i have think about onli data itself what data tell us about peopl behaviour 
+i want career where i am expect think onli analyt also creativ 
+my career just begin so i am look opportun grow develop more than anyth 
+my futur also might includ move back georgia becaus my famili all i am sure i can surviv mani more chicago winter 
+pranav rao 
+my name pranav rao 
+i m from houston tx recent texa m univers graduat 
+i earn b. 
+both comput scienc appli mathemat mai 2015 
+dure my undergradu year i focus learn leverag both math comput scienc solv real world problem 
+i particularli interest mathemat model numer algorithm even did research field 
+
+i becam interest text analyt my senior year after be expos it applic through comput scienc coursework 
+i took inform storag retriev cours saw what natur languag process could do how compani like googl had us them make inform easili access 
+shortli after i had opportun appli data analyt firsthand my senior capston project us univers massachusett mallet softwar toolkit my design team i creat standalon applic thema automat infer topic collect academ paper 
+target research thema provid sever visual intuit topic base relationship between paper given collect 
+through demand capston i abl appli mani differ aspect my undergradu educ excit analyt base project 
+around time i start think about how text analyt fit machin learn data scienc 
+
+after studi mathemat model better part five year i realiz data scienc complet differ wai problem solv mani case peopl don t care about exactli how some observ phenomenon came about re just interest quantifi figur out what do futur 
+so data scienc circumv have do year research us million observ reliabl describ predict behavior phenomenon 
+also help peopl make lot monei from those insight 
+
+through multifacet msia program i m learn think like data analyst scientist while build repertoir skill statist model program insight when how analyt should appli 
+msia ha realli help me recogn opportun innov within field 
+i m interest analyt applic tackl renew energi challeng associ fluctuat suppli demand what i d eventu like do my profession career 
+vijai ravichandran 
+i am from chennai india grew up live variou part india 
+i complet bachelor engin degre electron from univers mumbai 2003 
+after graduat from my undergradu colleg i join busi intellig analyt depart igat now part capgemini consult compani 
+
+over follow 12 year i execut sever busi intellig project client usa europ 
+i design enterpris data warehous execut dashboard compani aviat vehicl fleet manag energi domain 
+my work includ develop applic spare part util forecast vehicl fleet optim driver behavior analysi us gp data 
+
+i join msia program expand my knowledg advanc analyt gain expertis machin learn data mine big data technolog 
+i just complet summer internship transunion s financi servic analyt depart where i work model consum profit from credit card data creat new score product 
+
+dure msia program i understood text analyt essenti tool deriv valu from unstructur data i came across real life applic like spam filter document classif 
+i also found topic interest becaus high dimension text data 
+recent i read about wai which techniqu commonli us process text data be us work other type spars data have high dimension 
+
+after graduat from msia program i plan continu work risk analyt which focu my internship 
+i am interest explor how latest analyt techniqu can us analyz risk highli regul set 
+although text analyt ha tradition been us practic grow opportun do so becaus new altern data sourc be us predict risk 
+barthelemi saugrain 
+my name bart 
+i am from pari area franc 
+prior program i studi mathemat comput scienc french engin school where i got gradual more more interest analyt machin learn through project statist data analysi cours 
+led me appli analyt data scienc program us includ msia which i ultim chose part it veri project base curriculum 
+i becam interest text analyt when work imag data last spring deep learn class dure summer my internship 
+i found work unstructur data particularli interest challeng 
+addition volum unstructur data constantli rise explos user gener content mani case unstructur data trivial extract valu out 
+therefor i would veri interest learn more about how deal unstructur data gener text data particular 
+summer i intern ge digit pari i work design model classifi ct scan slice imag correspond bodi part head chest leg etc so imag from full bodi scan could dispatch bodi part specif diagnost algorithm 
+after graduat i am plan go back europ 
+i am more interest r d i am consid appli phd program 
+michael schra 
+i grew up space coast florida where i develop interest system engin my high school s robot team 
+led me earn bachelor scienc degre industri system engin busi financ from univers florida 
+while colleg i teach assist class cover busi financ vb.net relat databas web base decis support system 
+prior join accentur i complet internship success startup compani florida citibank lockhe martin twice fdic dure peak financi crisi 
+
+member accentur s technolog strategi consult practic i work project numer industri role includ divest data separ analyst energi compani process chang analyst pharmaceut manufactur itil process analyst telecom compani 
+
+i want widen my experi data analyt so i join mobil devic manag implement project data deploy analyst 
+while project i analyz mobil devic usag pattern 100,000 user discov trend amongst divers personnel subset explain lower than expect enrol rate 
+my find directli influenc execut level decis continu deploy 
+after be recogn sme accentur s mobil devic secur usag analyt i got lead deploy technolog work stream client s 10,000 user mdm implement prior leav ms analyt program 
+
+i join msia program deepen my statist analyt skill set northwestern s rigor appli industri connect curriculum 
+i elect take text analyt class becaus text compris much larger share all unstructur data world we haven t yet learn how analyz beyond brief overview some veri basic concept 
+
+after graduat i hope go back my old line work mayb intern consult consult small special firm my new abil do predict analysi data instead just reactiv analysi report 
+elena smith 
+my name elena i am from lo angel 
+i had unusu journei program 
+after studi english art histori swarthmor colleg i work art museum 
+i manag fundrais databas 
+year later i becam databas manag independ school 
+i spent mani tediou hour enter gift databas i meticul organ person segment direct mail appeal 
+
+on dai my supervisor ask me analyz effect our fundrais campaign 
+i intrigu all data i enter system could har inform strategi improv effici 
+i yearn perform analysi i did have statist background 
+
+eager learn more about data analysi i accept job liber art colleg perfect place work someon look further her educ 
+i took math class colleg colleg support me when i enrol onlin graduat level statist class texa m 
+after studi r coursera i wove r my daili work routin more practic opportun 
+arm stronger foundat math statist program i final appli msia program 
+
+my interest text analyt date back my career liber art colleg 
+we store volum unstructur text data prospect donor inform never har predict model identifi donor 
+i want unlock power inform buri within those field 
+
+i enjoi quick introduct text analyt my internship insur compani summer 
+i built model predict how much insur would pai commerci bodili injuri claim 
+each claim i provid full copi claim handler note inform about accid 
+data scientist compani had written python code deriv featur from stem text data 
+while mani deriv featur were highli predict i saw some area improv 
+first code doe correct spell error 
+spell error common becaus claim handler note intern us onli never publish 
+second code doe normal common insur term so attornei it frequent abbrevi atti treat differ 
+
+after graduat i hope analyz custom behavior data compani lo angel 
+alexand stec 
+i am from hinsdal illinoi town about twenti mile west chicago 
+quiet peac place bore suburban wai 
+i am current phd program appli mathemat 
+i chose appli math becaus i like close relationship between theori applic also fact appli math tend veri interdisciplinari 
+i want obtain my doctor degre becaus i love do new independ research 
+befor program i complet undergradu program engin physic univers illinoi urbana champaign 
+while i did research astrophys black hole which much differ from what i am do now 
+
+
+
+i becam interest text analyt when i encount dure my research neural network 
+problem i work i had lot text string i need spell check cluster togeth coher group 
+do i us some basic text analyt techniqu i could tell much more learn 
+anoth reason i am interest text analyt becaus just how much text inform exist world 
+lot applic us text my research so know how work larg dataset prove veri benefici 
+
+
+
+immedi futur i would like learn lot about text analyt class 
+near futur i would like complet my doctor degre reason amount time 
+afterward i do think i would want stai academ 
+instead i plan go industri hopefulli work neural network 
+i would prefer have varieti differ job becaus my interest often chang move from on thing next 
+i would also like leav chicago area few year least i ve been illinoi my whole life 
+apurvaa subramaniam 
+i m origin from india live singapor 7 year befor come us 
+my undergradu degre comput engin from nanyang technolog univers ntu 
+some class i took dure undergrad artifici intellig neural network first got me interest data scienc 
+after graduat 2012 i work softwar engin invest research divis goldman sach 3 year 
+on project i work involv consolid data from differ sourc central data platform enabl analyst provid more cohes research client 
+help me understand commerci valu data got me further interest field data scienc analyt lead me enrol msia program 
+
+dure my practicum project i did some text analyt topic model sentiment analysi so i am eager explor topic more detail 
+increas us convers agent varieti area i feel natur languag process becom veri popular next few year 
+outsid work i like travel read cook swim 
+i also like keep up latest advanc data scienc read blog articl from mit technolog review techcrunch 538 so 
+futur i hope work data scientist prefer small compani startup help improv peopl s live through data 
+i feel we brink ai revolut am veri excit see how machin learn shape world over next decad especi educ healthcar financ 
+term technolog i am particularli interest iot internet thing sna social network analysi democrat deep learn openai tensorflow etc 
+
+brian trent 
+my name brian trent i grew up syracus ny 
+child i enjoi compet sport read fiction listen plai music hike hang out my friend 
+i still enjoi activ todai well mani other like travel 
+
+i move new york citi 2004 attend citi colleg new york where i major music audio technolog 
+upon graduat i hire my alma mater help support music depart along audio visual system emploi 
+dure my tenur univers i becam member adjunct teach faculti work freelanc record engin plai band although we mostli just had fun studio make record 
+my main instrument guitar 
+i also realiz dure time i want explor some my other interest potenti career feel i appreci music more hobbi than wai support myself 
+so i began studi mathemat comput scienc plan attend graduat school 
+
+i want my next career technic natur have great mobil term job locat flexibl term industri busi function 
+i am veri curiou person get bore easili so i want whatev came next have plenti growth opportun load uniqu challeng problem solv 
+data scienc analyt seem check all those box 
+didn t hurt skill were high demand 
+i also utterli amaz all cool wai which data i gener were be util improv my experi user assist me make decis like which new band check out 
+have decid new career choic i enrol northwestern univers s master scienc analyt program 
+
+msia program quit structur onli coupl chanc select elect cours text analyt be on choic 
+seem like obviou choic me consid volumin amount unstructur data be produc our societi copiou amount which text 
+i felt must have skill develop data scientist so i enrol cours 
+hopefulli i have opportun appli what i learn cours my next posit 
+
+i am current look next posit strongli consid consult industri 
+i like project base work i think consult offer wai gain quick exposur number techniqu tool industri busi function 
+howev now i m cast my net pretti wide see what opportun might exist 
+
+final i have beauti care wife amaz two year old daughter i love spend time when i m busi work school 
+kedi wu 
+my name kedi wu origin from china 
+i join msia program right after i finish my undergradu degre 
+i dual degre program host univers michigan shanghai jiao tong univers 
+so i got two bachelor degre from both univers which industri oper engin electr comput engin 
+main motiv brought me msia program simpli my passion data 
+when i undergradu i work differ project relat sever subject 
+i realiz i got excit everi time i work data 
+so i decid explor more learn more data analyt field 
+my plan near futur find job some interest industri 
+after accumul experi sever year i want start my own busi join start up compani get more challeng 
+
+just meet homework requir here someth more about myself 
+i am big basketbal fan 
+i start plai sinc i elementari school 
+i plai point guard shoot guard 
+my speed fast my dribbl decent while my stamina strength lower than averag level 
+offens end reli my speed dribbl i can tear defens easili 
+i can choos either layup jump shot pass ball open shooter 
+i us onli abl attack from right 
+now i can us both my left right hand attack 
+my shoot stabl mainli becaus size my palm rel small 
+recent i have been develop my post up skill which highli reli shoot stabil pretti hard master 
+defens end i am versatil defend both on on defens help defens 
+i never plai hard peopl i know 
+stranger hooper piss me off i absolut lock him down 
+jade yang 
+my name jade 
+i am origin from china came unit state high school nine year ago 
+after graduat from georgia tech major industri engin i work deustch bank two year role qualiti assur data analyst within global technolog divis 
+everydai db i need deal larg scale raw transact from multipl sourc ensur accuraci integr 
+i start realiz import data compani how power can we us properli 
+reason brought me field analyt where i could discov intellig insight make most hidden gem massiv data 
+term text analyt we had class project where we us some preliminari method like remov stop word td idf process measur sentenc 
+other i don t have much experi therefor i certainli like learn more 
+we all know unstructur inform might account more than 70 80 all data organ 
+unlock potenti repres huge opportun next gener big data 
+exampl onlin retail can convert text meaning format measur custom opinion product review feedback tweet make smart decis 
+besid linguist structur i think all form human commun auditori visual structur significantli valuabl 
+i believ cours could help me build fundament knowledg how process text data deriv pattern well interpret output 
+meantim i would like gain some real world experi through differ us case 
+my futur career plan primari li custom analyt market orient which stand front busi line gener revenu compani util analyt techniqu 
+luyao yang 
+my name luyao i'm origin from china although i'v been live lo angel last 9 year 
+i came us high school went ucla b. 
+comput mathemat statist 
+dure program i had opportun work professor consult project involv data model yet call analyt time drove my interest appli statist 
+shortli after i discov field data scienc analyt quickli emerg educ program top institut around countri brought me here msia 
+
+i work qualiti control analyst clinic data process compani dure half year between colleg graduat school check accuraci inform extract from clinic studi 
+much inform fact enter manual someon would need read medic paper organ all data format accept compani s softwar platform 
+busi had troubl hire becaus peopl field expertis either medic profession least mph student peopl obvious would satisfi easi offic job anyon could do clinic studi weren t involv 
+time i wonder s possibl comput read understand studi especi sinc much data alreadi present tabular form 
+first time when i discov text analyt 
+again again dure my time msia text analysi show up almost everi class project articl i read which strengthen my take skill 
+
+near futur i would work analyt profession hopefulli reput compani tech sector 
+after some year career growth i mai choos return china on lead data scientist countri hopefulli bring some real data scienc major corpor 
+after all buzzword big data right now realli just repres beauti infograph deal larg static dataset 
+sinc i m now field directli associ i need do some actual analysi make peopl realiz s just data journal 

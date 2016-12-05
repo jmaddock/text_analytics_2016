@@ -1,0 +1,80 @@
+line 0, Core NLP: . START 
+line 0, Original: .START 
+line 0, Lucene: START 
+
+
+line 2, Core NLP: Sea Containers Ltd. said it might increase the price of its $ 70-a-share buy-back plan if pressed by Temple Holdings Ltd. , which made an earlier tender offer for Sea Containers . 
+line 2, Original: Sea Containers Ltd. said it might increase the price of its $70-a-share buy-back plan if pressed by Temple Holdings Ltd., which made an earlier tender offer for Sea Containers. 
+line 2, Lucene: Sea Containers Ltd said it might increase the price of its 70 a share buy back plan if pressed by Temple Holdings Ltd which made an earlier tender offer for Sea Containers 
+
+
+line 4, Core NLP: Sea Containers , a Hamilton , Bermuda-based shipping concern , said Tuesday that it would sell $ 1.1 billion of assets and use some of the proceeds to buy about 50 % of its common shares for $ 70 apiece . 
+line 4, Original: Sea Containers, a Hamilton, Bermuda-based shipping concern, said Tuesday that it would sell $1.1 billion of assets and use some of the proceeds to buy about 50% of its common shares for $70 apiece. 
+line 4, Lucene: Sea Containers a Hamilton Bermuda based shipping concern said Tuesday that it would sell 1.1 billion of assets and use some of the proceeds to buy about 50 of its common shares for 70 apiece 
+
+
+line 6, Core NLP: The move is designed to ward off a hostile takeover attempt by two European shipping concerns , Stena Holding AG and Tiphook PLC. . 
+line 6, Original: The move is designed to ward off a hostile takeover attempt by two European shipping concerns, Stena Holding AG and Tiphook PLC.
+line 6, Lucene: The move is designed to ward off a hostile takeover attempt by two European shipping concerns Stena Holding AG and Tiphook PLC 
+
+line 7, Core NLP: In May , the two companies , through their jointly owned holding company , Temple , offered $ 50 a share , or $ 777 million , for Sea Containers . 
+line 7, Original: In May, the two companies, through their jointly owned holding company, Temple, offered $50 a share, or $777 million, for Sea Containers.
+line 7, Lucene: In May the two companies through their jointly owned holding company Temple offered 50 a share or 777 million for Sea Containers 
+
+line 8, Core NLP: In August , Temple sweetened the offer to $ 63 a share , or $ 963 million . 
+line 8, Original: In August, Temple sweetened the offer to $63 a share, or $963 million. 
+line 8, Lucene: In August Temple sweetened the offer to 63 a share or 963 million 
+
+
+line 10, Core NLP: Yesterday , Sea Containers ' chief executive officer , James Sherwood , said in an interview that , under the asset-sale plan , Sea Containers would end up with a cash surplus of approximately $ 620 million . 
+line 10, Original: Yesterday, Sea Containers' chief executive officer, James Sherwood, said in an interview that, under the asset-sale plan, Sea Containers would end up with a cash surplus of approximately $620 million.
+line 10, Lucene: Yesterday Sea Containers chief executive officer James Sherwood said in an interview that under the asset sale plan Sea Containers would end up with a cash surplus of approximately 620 million 
+
+line 11, Core NLP: About $ 490 million of that would be allocated to the buy-back , leaving about $ 130 million , he said . 
+line 11, Original: About $490 million of that would be allocated to the buy-back, leaving about $130 million, he said. 
+line 11, Lucene: About 490 million of that would be allocated to the buy back leaving about 130 million he said 
+
+
+line 13, Core NLP: That $ 130 million , Mr. Sherwood said , `` gives us some flexibility in case Temple raises its bid . 
+line 13, Original: That $130 million, Mr. Sherwood said, "gives us some flexibility in case Temple raises its bid.
+line 13, Lucene: That 130 million Mr Sherwood said gives us some flexibility in case Temple raises its bid 
+
+line 14, Core NLP: We are able to increase our price above the $ 70 level if necessary . '' He declined to say , however , how much Sea Containers might raise its price . 
+line 14, Original: We are able to increase our price above the $70 level if necessary." He declined to say, however, how much Sea Containers might raise its price. 
+line 14, Lucene: We are able to increase our price above the 70 level if necessary He declined to say however how much Sea Containers might raise its price 
+
+
+line 16, Core NLP: Mr. Sherwood speculated that the leeway that Sea Containers has means that Temple would have to `` substantially increase their bid if they 're going to top us . '' 
+line 16, Original: Mr. Sherwood speculated that the leeway that Sea Containers has means that Temple would have to "substantially increase their bid if they're going to top us." 
+line 16, Lucene: Mr Sherwood speculated that the leeway that Sea Containers has means that Temple would have to substantially increase their bid if they're going to top us 
+
+
+line 18, Core NLP: Temple , however , harshly criticized Sea Containers ' plan yesterday , characterizing it as a `` highly conditional device designed to entrench management , confuse shareholders and prevent them from accepting our superior cash offer . '' 
+line 18, Original: Temple, however, harshly criticized Sea Containers' plan yesterday, characterizing it as a "highly conditional device designed to entrench management, confuse shareholders and prevent them from accepting our superior cash offer." 
+line 18, Lucene: Temple however harshly criticized Sea Containers plan yesterday characterizing it as a highly conditional device designed to entrench management confuse shareholders and prevent them from accepting our superior cash offer 
+
+
+line 20, Core NLP: A spokesman for Temple estimated that Sea Containers ' plan -- if all the asset sales materialize -- would result in shareholders receiving only $ 36 to $ 45 a share in cash . 
+line 20, Original: A spokesman for Temple estimated that Sea Containers' plan -- if all the asset sales materialize -- would result in shareholders receiving only $36 to $45 a share in cash.
+line 20, Lucene: A spokesman for Temple estimated that Sea Containers plan if all the asset sales materialize would result in shareholders receiving only 36 to 45 a share in cash 
+
+line 21, Core NLP: The lower figures , the spokesman said , would stem from preferred shares being converted to common stock and the possibility that Sea Containers ' subsidiaries might be required to place their shares in the open market . 
+line 21, Original: The lower figures, the spokesman said, would stem from preferred shares being converted to common stock and the possibility that Sea Containers' subsidiaries might be required to place their shares in the open market. 
+line 21, Lucene: The lower figures the spokesman said would stem from preferred shares being converted to common stock and the possibility that Sea Containers subsidiaries might be required to place their shares in the open market 
+
+
+line 23, Core NLP: Temple added that Sea Containers is still mired in legal problems in Bermuda , where the Supreme Court has temporarily barred Sea Containers from buying back its own stock in a case brought by Stena and Tiphook . -LCB- The court has indicated it will rule on the case by the end of the month . -RCB- 
+line 23, Original: Temple added that Sea Containers is still mired in legal problems in Bermuda, where the Supreme Court has temporarily barred Sea Containers from buying back its own stock in a case brought by Stena and Tiphook. {The court has indicated it will rule on the case by the end of the month.} 
+line 23, Lucene: Temple added that Sea Containers is still mired in legal problems in Bermuda where the Supreme Court has temporarily barred Sea Containers from buying back its own stock in a case brought by Stena and Tiphook The court has indicated it will rule on the case by the end of the month 
+
+
+line 25, Core NLP: Temple also said Sea Containers ' plan raises `` numerous legal , regulatory , financial and fairness issues , '' but did n't elaborate . 
+line 25, Original: Temple also said Sea Containers' plan raises "numerous legal, regulatory, financial and fairness issues," but didn't elaborate. 
+line 25, Lucene: Temple also said Sea Containers plan raises numerous legal regulatory financial and fairness issues but didn't elaborate 
+
+
+line 27, Core NLP: Mr. Sherwood said reaction to Sea Containers ' proposal has been `` very positive . '' In New York Stock Exchange composite trading yesterday , Sea Containers closed at $ 62.625 , up 62.5 cents . 
+line 27, Original: Mr. Sherwood said reaction to Sea Containers' proposal has been "very positive." In New York Stock Exchange composite trading yesterday, Sea Containers closed at $62.625, up 62.5 cents. 
+line 27, Lucene: Mr Sherwood said reaction to Sea Containers proposal has been very positive In New York Stock Exchange composite trading yesterday Sea Containers closed at 62.625 up 62.5 cents 
+
+
