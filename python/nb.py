@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import argparse
 
-NEG_DATA_DIR = os.path.join(os.pardir,'text/review_polarity/txt_sentoken/pos')
+NEG_DATA_DIR = os.path.join(os.pardir,'text/review_polarity/txt_sentoken/neg')
 POS_DATA_DIR = os.path.join(os.pardir,'text/review_polarity/txt_sentoken/pos')
 TRAINING_FILES = ['cv00']
 TEST_FILES = ['cv60']
