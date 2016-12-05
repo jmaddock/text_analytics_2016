@@ -1,3 +1,6 @@
 training files: ['cv00'] (10 files)
 test files: ['cv60'] (10 files)
 precision: 0.5, recall: 1.0, fscore: 0.6666666666666666
+training files: ['cv00'] (10 files)
+test files: ['cv60'] (10 files)
+precision: 0.5714285714285714, recall: 0.4, fscore: 0.47058823529411764

@@ -105,9 +105,9 @@ def main():
     print(results.loc[(results['nb_class'] == 'pos')])
     print(results.loc[(results['nb_class'] == 'neg')])
     # calculate precision
-    precision = tp/(tp + fp)
+    precision = float(tp)/(tp + fp)
     # calculate recall
-    recall = tp/(tp + fn)
+    recall = float(tp)/(tp + fn)
     # calculate fscore
     fscore = (2 * precision * recall)/(precision + recall)
     resultOutput = 'precision: {0}, recall: {1}, fscore: {2}\n'.format(precision,recall,fscore)
